@@ -44,7 +44,7 @@ http://localhost:3000/questions/<question_id>
 The view polls page shows details of a question. 
 
 - If the question has already been answered it will show the poll results. 
-- If the question has not been answered, it will allow the user to pick an answer and submit. 
+- If the question has not been answered, it will allow the user to pick an answer and submit..
 
 Poll results or answers are not shown to users unless they submit their own answer.
 
